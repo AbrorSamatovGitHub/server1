@@ -1,5 +1,14 @@
 {
   "users": [],
+  "category_attribute": [
+    {
+      "slug": "phones",
+      "id": 1,
+      "rame": [4, 8, 16, 6],
+      "storage": [128, 32, 64],
+      "brand": ["Apple", "Samsung", "Xiaomi", "Novey", "Redmi"]
+    }
+  ],
   "catalog": [
     {
       "id": 1,
@@ -137,290 +146,355 @@
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
       "title": "Samsung Galaxy A05",
-      "rame": "4/64 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Samsung",
       "price": "1 700 000",
-      "id": 21
+      "id": 21,
+      "attribute": "ram 4gb / storage 64 / brand Samsung"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
       "title": "Xiaomi Redmi Note 11S",
-      "rame": "6/128 GB",
+      "rame": "8",
+      "storage": "32",
       "color": "Graphite Gray",
       "brand": "Xiaomi",
       "price": "1 732 000",
+      "attribute": "ram 8gb / storage 32 / brand Xiaomi",
       "id": 22
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg",
       "title": "Redmi Note 13 Pro",
-      "rame": "8/128 GB",
+      "rame": "6",
+      "storage": "64",
       "color": "Green",
       "brand": "Redmi",
       "price": "4 450 000",
+      "attribute": "ram 6gb / storage 64 / brand Redmi",
       "id": 23
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg",
       "title": "Samsung Galaxy S24",
-      "rame": "8/256 GB",
+      "rame": "16",
+      "storage": "128",
       "color": "Фиолетовый",
       "brand": "Samsung",
       "price": "10 365 000",
+      "attribute": "ram 16gb / storage 128 / brand Samsung",
       "id": 24
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg",
       "title": "Samsung Galaxy S24",
-      "rame": "8/256 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Серый",
       "brand": "Samsung",
       "price": "10 357 000",
+      "attribute": "ram 4gb / storage 64 / brand Samsung",
+
       "id": 25
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg",
       "title": "Samsung Galaxy S24 Ultra",
-      "rame": "12/512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Titanium Black",
       "brand": "Samsung",
       "price": "16 432 000",
+      "attribute": "ram 4gb / storage 64 / brand Samsung",
       "id": 26
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg",
       "title": "Samsung Galaxy S24 Ultra",
-      "rame": "12/512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Titanium Black",
       "brand": "Samsung",
       "price": "16 632 000",
+      "attribute": "ram 4gb / storage 64 / brand Samsung",
       "id": 27
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
       "title": "Novey Alpha A10",
-      "rame": "4/64 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Фиолетовый",
       "brand": "Novey",
       "price": "1 479 000",
-      "id": 28
+      "id": 28,
+      "attribute": "ram 4gb / storage 64 / brand Novey"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
       "title": "Novey Alpha A10",
-      "rame": "4/64 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Белый",
       "brand": "Novey",
       "price": "1 479 000",
-      "id": 29
+      "id": 29,
+      "attribute": "ram 4gb / storage 64 / brand Novey"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
       "title": "Novey Alpha A10",
-      "rame": "4/64 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Novey",
       "price": "1 200 000",
-      "id": 30
+      "id": 30,
+      "attribute": "ram 4gb / storage 64 / brand Novey"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg",
       "title": "Samsung Galaxy A25",
-      "rame": "6/128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Тёмный синий",
       "brand": "Samsung",
       "price": "3 160 000",
-      "id": 31
+      "id": 31,
+      "attribute": "ram 4gb / storage 64 / brand Samsung"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg",
       "title": "Samsung Galaxy A25",
-      "rame": "6/128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Желтый",
       "brand": "Samsung",
       "price": "3 160 000",
-      "id": 32
+      "id": 32,
+      "attribute": "ram 4gb / storage 64 / brand Samsung"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg",
       "title": "Samsung Galaxy A25",
-      "rame": "6/128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Синий",
       "brand": "Samsung",
       "price": "3 160 000",
-      "id": 33
+      "id": 33,
+      "attribute": "ram 4gb / storage 64 / brand Samsung"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Pink",
       "brand": "Apple",
       "price": "14 940 000",
-      "id": 34
+      "id": 34,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Pink",
       "brand": "Apple",
       "price": "15 547 000",
-      "id": 35
+      "id": 35,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "256 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Pink",
       "brand": "Apple",
       "price": "13 904 000",
-      "id": 36
+      "id": 36,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Yellow",
       "brand": "Apple",
       "price": "14 940 000",
-      "id": 37
+      "id": 37,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "256 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Yellow",
       "brand": "Apple",
       "price": "15 547 000",
-      "id": 38
+      "id": 38,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Yellow",
       "brand": "Apple",
       "price": "13 904 000",
-      "id": 39
+      "id": 39,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Green",
       "brand": "Apple",
       "price": "14 940 000",
-      "id": 40
+      "id": 40,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "256 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Green",
       "brand": "Apple",
       "price": "15 547 000",
-      "id": 41
+      "id": 41,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Green",
       "brand": "Apple",
       "price": "13 904 000",
-      "id": 42
+      "id": 42,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "512 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Apple",
       "price": "14 940 000",
-      "id": 43
+      "id": 43,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "256 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Apple",
       "price": "15 547 000",
-      "id": 44
+      "id": 44,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
       "title": "Apple iPhone 15 Plus",
-      "rame": "128 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Apple",
       "price": "13 904 000",
-      "id": 45
+      "id": 45,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "1 TB",
+      "rame": "4",
+      "storage": "64",
       "color": "Natural titanium",
       "brand": "Apple",
       "price": "24 611 000",
-      "id": 46
+      "id": 46,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "1 TB",
+      "rame": "4",
+      "storage": "64",
       "color": "Natural titanium",
       "brand": "Apple",
       "price": "22 752 000",
-      "id": 47
+      "id": 47,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "512 Gb",
+      "rame": "4",
+      "storage": "64",
       "color": "Natural titanium",
       "brand": "Apple",
       "price": "18 604 000",
-      "id": 48
+      "id": 48,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "1 TB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black titanium",
       "brand": "Apple",
       "price": "24 611 000",
-      "id": 49
+      "id": 49,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
       "title": "Samsung Galaxy A05",
-      "rame": "4/64 GB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black",
       "brand": "Samsung",
       "price": "1 700 000",
-      "id": 52
+      "id": 52,
+      "attribute": "ram 4gb / storage 64 / brand Samsung"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "1 TB",
+      "rame": "4",
+      "storage": "64",
       "color": "Black titanium",
       "brand": "Apple",
       "price": "22 752 000",
-      "id": 50
+      "id": 50,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
       "title": "Apple iPhone 15 Pro Max",
-      "rame": "512 Gb",
+      "rame": "4",
+      "storage": "64",
       "color": "Black titanium",
       "brand": "Apple",
       "price": "18 604 000",
-      "id": 51
+      "id": 51,
+      "attribute": "ram 4gb / storage 64 / brand Apple"
     }
   ],
   "sport": [
@@ -1526,6 +1600,7 @@
       "title": "Samsung Galaxy A05",
       "rame": "4/64 GB",
       "color": "Black",
+      "slug": "phones",
       "brand": "Samsung",
       "price": "1 700 000",
       "id": 21
